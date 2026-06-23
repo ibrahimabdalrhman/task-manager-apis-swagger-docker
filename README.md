@@ -57,7 +57,7 @@ routes → controllers → services → models
 ### 1. Clone and install dependencies
 
 ```bash
-git clone <your-repo-url>
+git clone [<repo-url>](https://github.com/ibrahimabdalrhman/task-manager-apis-swagger-docker)
 cd task-manager
 npm install
 ```
